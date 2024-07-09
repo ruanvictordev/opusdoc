@@ -1,0 +1,20 @@
+site_name: Opus Doc
+
+nav:
+  - Home: index.md
+  - Introdução: introducao.md
+  - Levantamento de Requisitos: requisitos.md
+  - Representação Arquitetural: arquitetura.md
+  - Guia de Estilos: estilos.md
+  - Linguagens e Tecnologias: tecnologias.md
+  - Cronogramas: cronogramas.md
+  - Planos de Risco: riscos.md
+  - Estimativa de Custo: custos.md
+
+
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - rust
