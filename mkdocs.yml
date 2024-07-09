@@ -1,4 +1,5 @@
 site_name: Opus Doc
+site_url: https://github.com/ruanvcg/opusdoc.git
 
 nav:
   - Home: index.md
