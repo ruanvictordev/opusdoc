@@ -16,7 +16,7 @@ Documentação oficial do projeto "Opus", uma plataforma responsável por conect
 <a href=""><strong>Explore the docs »</strong></a>
 <br></br>
 
-https://i.ibb.co/M1r1YSq/Group-2.png
+<img width="100%" src="https://i.ibb.co/M1r1YSq/Group-2.png">
 </div>
 
 <div align="left">
