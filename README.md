@@ -16,7 +16,7 @@ Documentação oficial do projeto "Opus", uma plataforma responsável por conect
 <a href=""><strong>Explore the docs »</strong></a>
 <br></br>
 
-https://github.com/ruanvcg/Portfolio/assets/f6d6e80e-e8df-4da2-86ca-55c35c8fee3b
+https://i.ibb.co/M1r1YSq/Group-2.png
 </div>
 
 <div align="left">
