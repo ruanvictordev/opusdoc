@@ -4,12 +4,12 @@
 
 # Sobre
 
-Esta é a documentação oficial do projeto "Opus", onde haverá as principais informações arquiteturais do sistema.
+Documentação oficial do projeto "Opus", uma plataforma responsável por conectar candidatos a empresas e serviços da região de Pedro II - PI.
 
 
 ### Equipe de Desenvolvimento
 
-A equipe de desenvolvimento é composta por quatro profissionais especializados nas áreas: desenvolvimento de software, arquitetura de sistemas, gerenciamento de projetos e designer de experiência do usuário. Cada membro da equipe contribui com suas habilidades únicas e experiência, formando um grupo coeso e colaborativo.
+A equipe de desenvolvimento é composta por quatro profissionais especializados nas áreas: desenvolvimento de software, arquitetura de sistemas, gerenciamento de projetos, escrita técnica e designer de experiência do usuário. Cada membro da equipe contribui com suas habilidades únicas e experiência, formando um grupo coeso e colaborativo.
 
 ### Contribuidores
 

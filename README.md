@@ -1,19 +1,17 @@
 <div align="center">
 
-<code><img height="27" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="html"></code>
-<code><img height="27" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="css"></code>
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="react"></code>
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" alt="typescript"></code>
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" alt="nodejs"></code>
+<code><img height="27" src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" alt="expressjs"></code>
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" alt="mongodb"></code>
 
 <div align="center">
 <h1>Opus</h1>
 Documentação oficial do projeto "Opus", uma plataforma responsável por conectar candidatos a empresas e serviços da região de Pedro II - PI.
 <br></br>
-<a href=""><strong>Live Project »</strong></a>
 
-<a href=""><strong>Explore the docs »</strong></a>
+<a href="https://opusdoc.vercel.app"><strong>Explore the docs »</strong></a>
 <br></br>
 
 <img width="100%" src="https://i.ibb.co/M1r1YSq/Group-2.png">
@@ -34,8 +32,6 @@ Documentação oficial do projeto "Opus", uma plataforma responsável por conect
       <li><a>Planos de Risco</a></li>
   </ol>
 </details>
-
-## Features 
 
 ## Equipe de Desenvolvimento
 
