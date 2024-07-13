@@ -11,8 +11,6 @@ Documentação oficial do projeto "Opus", uma plataforma responsável por conect
 
 A equipe de desenvolvimento é composta por quatro profissionais especializados nas áreas: desenvolvimento de software, arquitetura de sistemas, gerenciamento de projetos, escrita técnica e designer de experiência do usuário. Cada membro da equipe contribui com suas habilidades únicas e experiência, formando um grupo coeso e colaborativo.
 
-### Contribuidores
-
 |Foto |Nome |Função |GitHub |E-mail|
 |:--:|:--:|:--:|:--:|:--:|
 |<img src="https://avatars.githubusercontent.com/u/62728646?v=4" width="50" height="50">|Ruan Victor |Gerente de Projetos |[Ruan Victor]()|ruanvictorp22111@gmail.com|

@@ -1,5 +1,5 @@
-# Cronogramas
+# Cronogramas de Reuniões
 
-|Tarefa |Data |Resumo da Tarefa |
+|Reunião |Data |Objetivos da Reunião |
 |--------|--------------|--------------|
-| Levantamento de Requisitos | 08/07/2024 | Entrevista e Pesquisa com os interessados do projeto|
+| Escopo do Projeto | 08/07/2024 | Escopo do Projeto, Configurar o Jira, Definir equipes, Realizar levantamento de requisitos|
