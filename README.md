@@ -1,0 +1,92 @@
+<div align="center">
+
+<code><img height="27" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="html"></code>
+<code><img height="27" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="css"></code>
+<code><img height="27" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="react"></code>
+<code><img height="27" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" alt="typescript"></code>
+<code><img height="27" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" alt="nodejs"></code>
+<code><img height="27" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" alt="mongodb"></code>
+
+<div align="center">
+<h1>Opus</h1>
+Documentação oficial do projeto "Opus", uma plataforma responsável por conectar candidatos a empresas e serviços da região de Pedro II - PI.
+<br></br>
+<a href=""><strong>Live Project »</strong></a>
+
+<a href=""><strong>Explore the docs »</strong></a>
+<br></br>
+
+https://github.com/ruanvcg/Portfolio/assets/f6d6e80e-e8df-4da2-86ca-55c35c8fee3b
+</div>
+
+<div align="left">
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+      <li><a>Home</a></li>
+      <li><a>Introdução</a></li>
+      <li><a>Levantamento de Requisitos</a></li>
+      <li><a>Representação Arquitetural</a></li>
+      <li><a>Guia de Estilos</a></li>
+      <li><a>Linguagens e Tecnologias</a></li>
+      <li><a>Cronogramas</a></li>
+      <li><a>Planos de Risco</a></li>
+  </ol>
+</details>
+
+## Features 
+
+## Equipe de Desenvolvimento
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ruanvcg">
+        <img src="https://avatars.githubusercontent.com/u/62728646?v=4" width="100px;" alt="Foto do Ruan Victor no GitHub"/><br>
+        <sub>
+          <b>Ruan Victor</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/brunolimapinheiro">
+        <img src="https://avatars.githubusercontent.com/u/125039158?v=4" width="100px;" alt="Foto do Bruno Lima no GitHub"/><br>
+        <sub>
+          <b>Bruno Lima</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/KelySoare5">
+        <img src="https://avatars.githubusercontent.com/u/111580529?v=4" width="100px;" alt="Foto de Kely Soares no GitHub"/><br>
+        <sub>
+          <b>Kely Soares</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JociS4">
+        <img src="https://avatars.githubusercontent.com/u/107800194?v=4" width="100px;" alt="Foto do Jociel Andrade no GitHub"/><br>
+        <sub>
+          <b>Jociel Andrade</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/OMaskara310">
+        <img src="https://avatars.githubusercontent.com/u/107417702?v=4" width="100px;" alt="Foto do João Carlos no GitHub"/><br>
+        <sub>
+          <b>João Carlos</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+## Contact
+For any inquiries or feedback, please contact the Scrum Master: [ruanvictorp22111@gmail.com](ruanvictorp22111@gmail.com).
+
+Thanks! :)
+</div>
