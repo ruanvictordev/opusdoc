@@ -1,4 +1,4 @@
-site_name: Opus Doc
+site_name: opus
 site_url: https://github.com/ruanvcg/opusdoc.git
 
 nav:
@@ -10,7 +10,6 @@ nav:
   - Linguagens e Tecnologias: tecnologias.md
   - Cronogramas: cronogramas.md
   - Planos de Risco: riscos.md
-  - Estimativa de Custo: custos.md
 
 
 theme:
