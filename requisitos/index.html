@@ -163,59 +163,66 @@
 <tbody>
 <tr>
 <td>[RF01]</td>
-<td>Cadastro de usuários</td>
+<td>Cadastro de Candidatos</td>
 <td>Essencial</td>
-<td>Usuário</td>
-<td>O sistema deverá permitir o cadastro de usuários por meio de nome, endereço de email e senha.</td>
+<td>Candidato</td>
+<td>O sistema web deverá permitir o cadastro de candidatos por meio de nome, endereço de email e senha.</td>
 </tr>
 <tr>
 <td>[RF02]</td>
-<td>Login de usuários</td>
+<td>Login de Candidatos / Empregadores</td>
 <td>Essencial</td>
-<td>Usuário</td>
-<td>O sistema deverá permitir o login dos usuários por meio de email e senha.</td>
+<td>Candidato / Empregador</td>
+<td>O sistema web deverá permitir o login dos candidatos e empregadores por meio de email e senha.</td>
 </tr>
 <tr>
 <td>[RF03]</td>
-<td>Recuperar senha</td>
+<td>Recuperar Senha</td>
 <td>Essencial</td>
-<td>Usuário</td>
-<td>O sistema deverá permitir que o usuário recupere e redefina a senha de seu cadastro através do e-mail.</td>
+<td>Candidato / Empregador</td>
+<td>O sistema web deverá permitir que o Candidato e Empregador recuperem e redefinam a senha de seu cadastro através do e-mail.</td>
 </tr>
 <tr>
 <td>[RF04]</td>
-<td>Excluir cadastro</td>
+<td>Excluir Cadastro</td>
 <td>Essencial</td>
-<td>Usuário</td>
-<td>O sistema deverá permitir que o usuário faça a exclusão de seu cadastro.</td>
+<td>Candidato / Empregador</td>
+<td>O sistema web deverá permitir que o Candidato e o empregador façam a exclusão de seu cadastro.</td>
 </tr>
 <tr>
 <td>[RF05]</td>
-<td>Edição de cadastro</td>
+<td>Edição de Cadastro</td>
 <td>Essencial</td>
-<td>Usuário</td>
-<td>O sistema deverá permitir que o usuário atualize as informações de cadastro.</td>
+<td>Candidato / Empregador</td>
+<td>O sistema web deverá permitir que o Candidato e o Empregador atualizem as informações de cadastro.</td>
 </tr>
 <tr>
 <td>[RF06]</td>
-<td>Perfil de usuário</td>
+<td>Perfil de Candidato</td>
 <td>Essencial</td>
-<td>Usuário</td>
-<td>O sistema deverá possuir uma rota com todas as informações cadastradas do usuário.</td>
+<td>Candidato</td>
+<td>O sistema web deverá possuir uma rota com todas as informações cadastradas do Candidato.</td>
 </tr>
 <tr>
 <td>[RF07]</td>
-<td>Buscar Vagas</td>
-<td>Importante</td>
-<td>Usuário</td>
-<td>O sistema deverá permitir a busca por vagas, pelo nome, localização ou categoria.</td>
+<td>Listagem de Vagas</td>
+<td>Essencial</td>
+<td>Sistema</td>
+<td>O sistema web deverá possuir uma seção com as vagas disponiveis e destaques na seção inicial.</td>
 </tr>
 <tr>
 <td>[RF08]</td>
-<td>Dashboard de vagas</td>
-<td>Essencial</td>
+<td>Buscar Vagas</td>
+<td>Importante</td>
+<td>Candidato</td>
+<td>O sistema web deverá permitir a busca por vagas, pelo nome, localização ou categoria.</td>
+</tr>
+<tr>
+<td>[RF09]</td>
+<td>Notificar Vagas</td>
+<td>Importante</td>
 <td>Sistema</td>
-<td>O sistema deverá possuir uma seção com as vagas disponiveis e destaques na seção inicial.</td>
+<td>O sistema web deverá notificar o Candidato referente a novas vagas e sobre vagas em que o Candidato se candidatou.</td>
 </tr>
 </tbody>
 </table>
@@ -235,8 +242,64 @@
 <td>[RNF01]</td>
 <td>Usabilidade</td>
 <td>Essencial</td>
-<td>Designer</td>
-<td>O sistema deve ser projetado com foco na usabilidade, proporcionando uma experiência de usuário intuitiva e agradável. Deve ser fácil de navegar e de entender, com interfaces de usuário amigáveis, eficientes e responsivas</td>
+<td>UX/UI Designer</td>
+<td>O site deve ser projetado com foco na usabilidade, proporcionando uma experiência de usuário intuitiva e agradável seguindo sempre o guia de estilos. Deve ser fácil de navegar e de entender, com interfaces de usuário amigáveis, eficientes e responsivas</td>
+</tr>
+<tr>
+<td>[RNF02]</td>
+<td>Desempenho</td>
+<td>Importante</td>
+<td>Desenvolvedor</td>
+<td>O site deve ser rápido para garantir que os usuários não fiquem esperando muito tempo para carregar as páginas.</td>
+</tr>
+<tr>
+<td>[RNF03]</td>
+<td>Segurança</td>
+<td>Importante</td>
+<td>Desenvolvedor</td>
+<td>O site deve implementar medidas de segurança eficazes para proteger as informações dos usuários, incluindo dados pessoais e de pagamento. Isso inclui criptografia de dados, autenticação segura e proteção contra ameaças cibernéticas.</td>
+</tr>
+<tr>
+<td>[RNF04]</td>
+<td>Manutenibilidade</td>
+<td>Importante</td>
+<td>Desenvolvedor</td>
+<td>O site deve ser de fácil manutenibilidade para facilitar a correção de bugs.</td>
+</tr>
+<tr>
+<td>[RNF05]</td>
+<td>Escalabilidade</td>
+<td>Importante</td>
+<td>Desenvolvedor</td>
+<td>O site deve ser projetado com escalabilidade em mente, garantindo que possa lidar com um aumento no número de usuários e conteúdos sem comprometer o desempenho. A arquitetura do site deve ser robusta e flexível</td>
+</tr>
+<tr>
+<td>[RNF06]</td>
+<td>Atualizações Contínuas</td>
+<td>Importante</td>
+<td>Desenvolvedor</td>
+<td>O site deve ser atualizada regularmente.</td>
+</tr>
+<tr>
+<td>[RNF07]</td>
+<td>Compatibilidade</td>
+<td>Essencial</td>
+<td>Desenvolvedor</td>
+<td>O site deve ser compatível com diversos dispositivos.</td>
+</tr>
+<tr>
+<td>[RNF08]</td>
+<td>Disponibilidade</td>
+<td>Essencial</td>
+<td>Desenvolvedor</td>
+<td>O site deve estar disponivel 24 hrs por dia.</td>
+</tr>
+<tr>
+<td>[RNF09]</td>
+<td>Conformidades com a legislação local</td>
+<td>Essencial</td>
+<td>Desenvolvedor</td>
+<td>O site deve seguir a legislação do país em que se encontra.</td>
 </tr>
 </tbody>
 </table>
