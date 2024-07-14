@@ -52,14 +52,16 @@ A coleta dos requisitos foi realizada por meio de contato e pesquisa com os resp
 
 |Código |Identificação |Classificação |Ator |Objetivo|
 |--------|--------------|--------------|--------|--------|
-|[RF01] |Cadastro de usuários |Essencial |Usuário| O sistema deverá permitir o cadastro de usuários por meio de nome, endereço de email e senha.|
-|[RF02] |Login de usuários |Essencial |Usuário| O sistema deverá permitir o login dos usuários por meio de email e senha.|
-|[RF03] |Recuperar senha |Essencial |Usuário| O sistema deverá permitir que o usuário recupere e redefina a senha de seu cadastro através do e-mail.|
-|[RF04] |Excluir cadastro |Essencial |Usuário| O sistema deverá permitir que o usuário faça a exclusão de seu cadastro.|
-|[RF05] |Edição de cadastro |Essencial |Usuário| O sistema deverá permitir que o usuário atualize as informações de cadastro.|
-|[RF06] |Perfil de usuário |Essencial |Usuário| O sistema deverá possuir uma rota com todas as informações cadastradas do usuário.|
-|[RF07] |Buscar Vagas |Importante |Usuário| O sistema deverá permitir a busca por vagas, pelo nome, localização ou categoria.|
-|[RF08] |Dashboard de vagas |Essencial |Sistema| O sistema deverá possuir uma seção com as vagas disponiveis e destaques na seção inicial.|
+|[RF01] |Cadastro de Candidatos|Essencial |Candidato| O sistema web deverá permitir o cadastro de candidatos por meio de nome, endereço de email e senha.|
+|[RF02] |Login de Candidatos / Empregadores|Essencial |Candidato / Empregador| O sistema web deverá permitir o login dos candidatos e empregadores por meio de email e senha.|
+|[RF03] |Recuperar Senha |Essencial |Candidato / Empregador| O sistema web deverá permitir que o Candidato e Empregador recuperem e redefinam a senha de seu cadastro através do e-mail.|
+|[RF04] |Excluir Cadastro |Essencial |Candidato / Empregador| O sistema web deverá permitir que o Candidato e o empregador façam a exclusão de seu cadastro.|
+|[RF05] |Edição de Cadastro |Essencial |Candidato / Empregador| O sistema web deverá permitir que o Candidato e o Empregador atualizem as informações de cadastro.|
+|[RF06] |Perfil de Candidato |Essencial |Candidato| O sistema web deverá possuir uma rota com todas as informações cadastradas do Candidato.|
+|[RF07] |Listagem de Vagas |Essencial |Sistema| O sistema web deverá possuir uma seção com as vagas disponiveis e destaques na seção inicial.|
+|[RF08] |Buscar Vagas |Importante |Candidato| O sistema web deverá permitir a busca por vagas, pelo nome, localização ou categoria.|
+|[RF09] |Notificar Vagas |Importante |Sistema| O sistema web deverá notificar o Candidato referente a novas vagas e sobre vagas em que o Candidato se candidatou.|
+
 
 
 
@@ -67,4 +69,12 @@ A coleta dos requisitos foi realizada por meio de contato e pesquisa com os resp
 
 |Código  |Identificação |Classificação |Ator |Objetivo|
 |--------|--------------|--------------|--------|--------|
-|[RNF01] |Usabilidade |Essencial |Designer|O sistema deve ser projetado com foco na usabilidade, proporcionando uma experiência de usuário intuitiva e agradável. Deve ser fácil de navegar e de entender, com interfaces de usuário amigáveis, eficientes e responsivas|
+|[RNF01] |Usabilidade |Essencial |UX/UI Designer|O site deve ser projetado com foco na usabilidade, proporcionando uma experiência de usuário intuitiva e agradável seguindo sempre o guia de estilos. Deve ser fácil de navegar e de entender, com interfaces de usuário amigáveis, eficientes e responsivas|
+|[RNF02] |Desempenho |Importante |Desenvolvedor |O site deve ser rápido para garantir que os usuários não fiquem esperando muito tempo para carregar as páginas.|
+|[RNF03] |Segurança |Importante |Desenvolvedor |O site deve implementar medidas de segurança eficazes para proteger as informações dos usuários, incluindo dados pessoais e de pagamento. Isso inclui criptografia de dados, autenticação segura e proteção contra ameaças cibernéticas.|
+|[RNF04] |Manutenibilidade |Importante |Desenvolvedor| O site deve ser de fácil manutenibilidade para facilitar a correção de bugs.|
+|[RNF05] |Escalabilidade |Importante |Desenvolvedor|O site deve ser projetado com escalabilidade em mente, garantindo que possa lidar com um aumento no número de usuários e conteúdos sem comprometer o desempenho. A arquitetura do site deve ser robusta e flexível|
+|[RNF06] |Atualizações Contínuas |Importante |Desenvolvedor|O site deve ser atualizada regularmente.|
+|[RNF07] |Compatibilidade |Essencial |Desenvolvedor|O site deve ser compatível com diversos dispositivos.|
+|[RNF08] |Disponibilidade |Essencial |Desenvolvedor|O site deve estar disponivel 24 hrs por dia.|
+|[RNF09] |Conformidades com a legislação local |Essencial |Desenvolvedor|O site deve seguir a legislação do país em que se encontra.|
