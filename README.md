@@ -77,6 +77,14 @@ Documentação oficial do projeto "Opus", uma plataforma responsável por conect
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/AbdeIF">
+        <img src="https://avatars.githubusercontent.com/u/126293962?v=4" width="100px;" alt="Foto do Abdenaide no GitHub"/><br>
+        <sub>
+          <b>Abdenaide Ribeiro</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
 

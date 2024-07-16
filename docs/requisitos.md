@@ -46,7 +46,13 @@
 
 A coleta dos requisitos foi realizada por meio de contato e pesquisa com os responsáveis pela administração do grupo de ofertas de emprego no WhatsApp. Os gráficos com os resultados da pesquisa estão anexados à documentação. Esse processo de contato com os requisitantes permitiu a construção das tabelas de requisitos apresentadas a seguir.
 
-(Resumir os resultados alcançados)
+### Resumo dos Resultados da Pesquisa:
+
+Os resultados coletados através da pesquisa aplicada com os requisitantes do projeto se mostraram positivas quanto a aceitação e usabilidade do website quando desenvolvido. Majoritariamente, as respostas e sugestões dos candidatos tendem a um website que atenderá boa parte dos que buscam novas oportunidades de entrar no mercado seja por meio de contratos do tipo integral, meio período ou estágios.
+
+Embora os resultados de candidatos tenha sido positivo, as respostas de empregadores carecem de dados consistentes, apenas 1 resposta. Com isso, sugere-se a busca por mais respostas e sugestões deste nível de usuário para o website.
+
+A seguir, um levantamento dos requisitos construído a partir dos diálogos e pesquisas realizadas:
 
 ### Requisitos Funcionais:
 
