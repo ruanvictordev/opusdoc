@@ -16,6 +16,7 @@
 
 #### Outras:
 
+- **Jira**: É uma ferramenta que permite o monitoramento de tarefas e acompanhamento de projetos garantindo o gerenciamento de todas as atividades do time de desenvolvimento em único lugar.
 - **Figma**: Figma é uma ferramenta de design de interface de usuário baseada na web. Ela é usada para criar protótipos, wireframes, e layouts para aplicativos web e móveis;
 - **Visual Studio Code**: Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft. Ele é leve, mas poderoso, e é amplamente utilizado para o desenvolvimento de aplicações em várias linguagens de programação;
 - **Github**: GitHub é uma plataforma de hospedagem de código-fonte que usa Git para controle de versão. Ele permite que desenvolvedores colaborem em projetos, armazenem código e gerenciem versões;

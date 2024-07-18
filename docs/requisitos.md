@@ -1,47 +1,5 @@
 # Levantamento de Requisitos
 
-### Entrevistas:
-
-<details>
-  <summary style="font-size: 1em; font-weight: bold">Resumo da reunião 01</summary>
-    <br>
-    <p><strong>Data da Reunião:</strong> </p>
-    <p><strong>Horário:</strong> </p>
-    <p><strong>Local:</strong> </p>
-    <h2>Equipe:</h2>
-    <ol>
-        <li>Ruan</li>
-        <li>Kelly</li>
-        <li>João</li>
-        <li>Jociel</li>
-    </ol>
-    <h2>Tópicos debatidos:</h2>
-    <ol>
-        <li>Nome do grupo</li>
-        <li>Nome do projeto</li>
-        <li>Ideias de nomes do grupo e do projeto</li>
-    </ol>
-    <h2>Ideias e Discussões:</h2>
-    <h3>Nome do Projeto:</h3>
-    <ul>
-        <li>"Opus"</li>
-    </ul>
-    <p><strong>Decisão:</strong> </p>
-    <h2>Próximos Passos:</h2>
-    <ol>
-        <li>Criação da logo do projeto</li>
-        <li>Escolha da paleta de cores</li>
-        <li>Criação da logo para o grupo (ainda indefinido)</li>
-    </ol>
-    <h2>Observações:</h2>
-    <ul>
-        <li>Participação ativa de todos os membros na discussão e votação.</li>
-    </ul>
-</details>
-
-
-<a></a>
-
 ### Técnica de Elicitação de Requisitos:
 
 A coleta dos requisitos foi realizada por meio de contato e pesquisa com os responsáveis pela administração do grupo de ofertas de emprego no WhatsApp. Os gráficos com os resultados da pesquisa estão anexados à documentação. Esse processo de contato com os requisitantes permitiu a construção das tabelas de requisitos apresentadas a seguir.
@@ -58,8 +16,8 @@ A seguir, um levantamento dos requisitos construído a partir dos diálogos e pe
 
 |Código |Identificação |Classificação |Ator |Objetivo|
 |--------|--------------|--------------|--------|--------|
-|[RF01] |Cadastro de Candidatos|Essencial |Candidato| O sistema web deverá permitir o cadastro de candidatos por meio de Nome Completo, Data de Nascimento, Email, Senha, Telefone, Endereço, Sobre, Experiências, Formações e Currículo.|
-|[RF02] |Cadastro de Empregadores|Essencial |Empregador| O sistema web deverá permitir o cadastro de empregadores por meio de Nome da Empresa / Empregador, Data de Nascimento, Email, Telefone, Endereço, Sobre.|
+|[RF01] |Cadastro de Candidatos|Essencial |Candidato| O sistema web deverá permitir o cadastro de candidatos por meio de Nome Completo, Data de Nascimento, Email, Senha, Telefone, Endereço, Sobre, Experiências, Formações, Foto de Perfil e Currículo.|
+|[RF02] |Cadastro de Empregadores|Essencial |Empregador| O sistema web deverá permitir o cadastro de empregadores por meio de Nome da Empresa / Empregador, Foto de Perfil, Data de Nascimento, Email, Telefone, Endereço e Sobre.|
 |[RF03] |Login de Candidatos / Empregadores|Essencial |Candidato / Empregador| O sistema web deverá permitir o login dos candidatos e empregadores por meio de email e senha.|
 |[RF04] |Recuperar Senha |Essencial |Candidato / Empregador| O sistema web deverá permitir que o Candidato e Empregador recuperem e redefinam a senha de seu cadastro através do e-mail.|
 |[RF05] |Excluir Cadastro |Essencial |Candidato / Empregador| O sistema web deverá permitir que o Candidato e o empregador façam a exclusão de seu cadastro.|
