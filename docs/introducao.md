@@ -18,5 +18,3 @@ A estrutura deste documento está organizada da seguinte forma:
 - Cronogramas;
 - Planos de Risco;
 - Anexos;
-
-### Referências:
