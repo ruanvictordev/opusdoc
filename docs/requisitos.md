@@ -65,7 +65,6 @@ A seguir, um levantamento dos requisitos construído a partir dos diálogos e pe
 |[RF05] |Excluir Cadastro |Essencial |Candidato / Empregador| O sistema web deverá permitir que o Candidato e o empregador façam a exclusão de seu cadastro.|
 |[RF06] |Edição de Cadastro |Essencial |Candidato / Empregador| O sistema web deverá permitir que o Candidato e o Empregador atualizem as informações de cadastro.|
 |[RF07] |Perfil de Candidato |Essencial |Candidato| O sistema web deverá possuir uma rota com todas as informações cadastradas do Candidato.|
-pelo nome, localização ou categoria.|
 |[RF08] |Postar Vagas |Essencial |Empregador| O sistema web deverá permitir que o empregador faça a puclicação de novas vagas com as seguintes informações: Nome da vaga, Nome da empresa, Logo da empresa, Localização, Data de postagem, Tipo de contrato e Sobre a vaga.|
 |[RF09] |Listagem de Vagas |Essencial |Sistema| O sistema web deverá possuir uma seção com as vagas disponiveis e destaques na seção inicial.|
 |[RF10] |Buscar Vagas |Importante |Candidato| O sistema web deverá permitir a busca por vagas, pelo nome, localização ou categoria.|
