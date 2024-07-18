@@ -58,15 +58,18 @@ A seguir, um levantamento dos requisitos construído a partir dos diálogos e pe
 
 |Código |Identificação |Classificação |Ator |Objetivo|
 |--------|--------------|--------------|--------|--------|
-|[RF01] |Cadastro de Candidatos|Essencial |Candidato| O sistema web deverá permitir o cadastro de candidatos por meio de nome, endereço de email e senha.|
-|[RF02] |Login de Candidatos / Empregadores|Essencial |Candidato / Empregador| O sistema web deverá permitir o login dos candidatos e empregadores por meio de email e senha.|
-|[RF03] |Recuperar Senha |Essencial |Candidato / Empregador| O sistema web deverá permitir que o Candidato e Empregador recuperem e redefinam a senha de seu cadastro através do e-mail.|
-|[RF04] |Excluir Cadastro |Essencial |Candidato / Empregador| O sistema web deverá permitir que o Candidato e o empregador façam a exclusão de seu cadastro.|
-|[RF05] |Edição de Cadastro |Essencial |Candidato / Empregador| O sistema web deverá permitir que o Candidato e o Empregador atualizem as informações de cadastro.|
-|[RF06] |Perfil de Candidato |Essencial |Candidato| O sistema web deverá possuir uma rota com todas as informações cadastradas do Candidato.|
-|[RF07] |Listagem de Vagas |Essencial |Sistema| O sistema web deverá possuir uma seção com as vagas disponiveis e destaques na seção inicial.|
-|[RF08] |Buscar Vagas |Importante |Candidato| O sistema web deverá permitir a busca por vagas, pelo nome, localização ou categoria.|
-|[RF09] |Notificar Vagas |Importante |Sistema| O sistema web deverá notificar o Candidato referente a novas vagas e sobre vagas em que o Candidato se candidatou.|
+|[RF01] |Cadastro de Candidatos|Essencial |Candidato| O sistema web deverá permitir o cadastro de candidatos por meio de Nome Completo, Data de Nascimento, Email, Senha, Telefone, Endereço, Sobre, Experiências, Formações e Currículo.|
+|[RF02] |Cadastro de Empregadores|Essencial |Empregador| O sistema web deverá permitir o cadastro de empregadores por meio de Nome da Empresa / Empregador, Data de Nascimento, Email, Telefone, Endereço, Sobre.|
+|[RF03] |Login de Candidatos / Empregadores|Essencial |Candidato / Empregador| O sistema web deverá permitir o login dos candidatos e empregadores por meio de email e senha.|
+|[RF04] |Recuperar Senha |Essencial |Candidato / Empregador| O sistema web deverá permitir que o Candidato e Empregador recuperem e redefinam a senha de seu cadastro através do e-mail.|
+|[RF05] |Excluir Cadastro |Essencial |Candidato / Empregador| O sistema web deverá permitir que o Candidato e o empregador façam a exclusão de seu cadastro.|
+|[RF06] |Edição de Cadastro |Essencial |Candidato / Empregador| O sistema web deverá permitir que o Candidato e o Empregador atualizem as informações de cadastro.|
+|[RF07] |Perfil de Candidato |Essencial |Candidato| O sistema web deverá possuir uma rota com todas as informações cadastradas do Candidato.|
+pelo nome, localização ou categoria.|
+|[RF08] |Postar Vagas |Essencial |Empregador| O sistema web deverá permitir que o empregador faça a puclicação de novas vagas com as seguintes informações: Nome da vaga, Nome da empresa, Logo da empresa, Localização, Data de postagem, Tipo de contrato e Sobre a vaga.|
+|[RF09] |Listagem de Vagas |Essencial |Sistema| O sistema web deverá possuir uma seção com as vagas disponiveis e destaques na seção inicial.|
+|[RF10] |Buscar Vagas |Importante |Candidato| O sistema web deverá permitir a busca por vagas, pelo nome, localização ou categoria.|
+|[RF11] |Notificar Vagas |Importante |Sistema| O sistema web deverá notificar o Candidato referente a novas vagas e sobre vagas em que o Candidato se candidatou.|
 
 
 

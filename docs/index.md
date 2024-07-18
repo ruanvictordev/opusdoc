@@ -14,8 +14,8 @@ A equipe de desenvolvimento é composta por quatro profissionais especializados 
 |Foto |Nome |Função |GitHub |E-mail|
 |:--:|:--:|:--:|:--:|:--:|
 |<img src="https://avatars.githubusercontent.com/u/62728646?v=4" width="50" height="50">|Ruan Victor |Gerente de Projetos |[Ruan Victor]()|ruanvictorp22111@gmail.com|
-|<img src="https://avatars.githubusercontent.com/u/125039158?v=4" width="50" height="50">|Bruno Lima |Desenvolvedor Frontend |[Bruno Lima]()|@gmail.com |
-|<img src="https://avatars.githubusercontent.com/u/111580529?v=4" width="50" height="50">|Kelly Soares |Desenvolvedora Frontend |[Kelly Soares]()|@gmail.com|
-|<img src="https://avatars.githubusercontent.com/u/107800194?v=4" width="50" height="50">|Jociel Andrade |Designer de Experiência do Usuário |[Jociel Andrade]()| @gmail.com|
-|<img src="https://avatars.githubusercontent.com/u/107417702?v=4" width="50" height="50">| João Carlos |Designer de Experiência do Usuário |[João Carlos]()|@gmail.com|
-|<img src="https://avatars.githubusercontent.com/u/126293962?v=4" width="50" height="50">| Abdenaide Ribeiro |Redator Técnico |[Abdenaide Ribeiro]()|@gmail.com|
+|<img src="https://avatars.githubusercontent.com/u/125039158?v=4" width="50" height="50">|Bruno Lima |Desenvolvedor Frontend |[Bruno Lima]()|brunol21082001@gmail.com |
+|<img src="https://avatars.githubusercontent.com/u/111580529?v=4" width="50" height="50">|Kelly Soares |Desenvolvedora Frontend |[Kelly Soares]()|kelysoares688@gmail.com|
+|<img src="https://avatars.githubusercontent.com/u/107800194?v=4" width="50" height="50">|Jociel Andrade |Designer de Experiência do Usuário |[Jociel Andrade]()| caped.20211p2ads0355@aluno.ifpi.edu.br|
+|<img src="https://avatars.githubusercontent.com/u/107417702?v=4" width="50" height="50">| João Carlos |Designer de Experiência do Usuário |[João Carlos]()|caped.20211p2ads0126@aluno.ifpi.edu.br|
+|<img src="https://avatars.githubusercontent.com/u/126293962?v=4" width="50" height="50">| Abdenaide Ribeiro |Redator Técnico |[Abdenaide Ribeiro]()|abdenaideribeiro2015@gmail.com|
