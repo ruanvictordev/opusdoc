@@ -25,8 +25,10 @@ A seguir, um levantamento dos requisitos construído a partir dos diálogos e pe
 |[RF07] |Perfil de Candidato |Essencial |Candidato| O sistema web deverá possuir uma rota com todas as informações cadastradas do Candidato.|
 |[RF08] |Postar Vagas |Essencial |Empregador| O sistema web deverá permitir que o empregador faça a puclicação de novas vagas com as seguintes informações: Nome da vaga, Nome da empresa, Logo da empresa, Localização, Data de postagem, Tipo de contrato e Sobre a vaga.|
 |[RF09] |Listagem de Vagas |Essencial |Sistema| O sistema web deverá possuir uma seção com as vagas disponiveis e destaques na seção inicial.|
-|[RF10] |Buscar Vagas |Importante |Candidato| O sistema web deverá permitir a busca por vagas, pelo nome, localização ou categoria.|
-|[RF11] |Notificar Vagas |Importante |Sistema| O sistema web deverá notificar o Candidato referente a novas vagas e sobre vagas em que o Candidato se candidatou.|
+|[RF10] | Visualizar vagas/candidatos |Essencial | Empregador | O Empregador deve poder ver os candidatos das vagas postadas por ele. |
+|[RF11] | Candidatar-se | Essencial | Candidato | O Candidato podera se cadastrar nas vagas escolhidas por ele. |
+|[RF12] |Buscar Vagas |Importante |Candidato| O sistema web deverá permitir a busca por vagas, pelo nome, localização ou categoria.|
+|[RF13] |Notificar Vagas |Importante |Sistema| O sistema web deverá notificar o Candidato referente a novas vagas e sobre vagas em que o Candidato se candidatou.|
 
 
 

@@ -19,3 +19,5 @@ Nesta seção, apresentamos a identidade visual do projeto, destacando o design,
 <img src="../img/PaletaDeCores.png">
 
 ### Tipografia:
+
+<img src="../img/Tipografia.png">
