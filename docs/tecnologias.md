@@ -21,6 +21,7 @@
 - **Visual Studio Code**: Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft. Ele é leve, mas poderoso, e é amplamente utilizado para o desenvolvimento de aplicações em várias linguagens de programação;
 - **Github**: GitHub é uma plataforma de hospedagem de código-fonte que usa Git para controle de versão. Ele permite que desenvolvedores colaborem em projetos, armazenem código e gerenciem versões;
 - **Git**: Git é um sistema de controle de versão distribuído, criado por Linus Torvalds. Ele permite que desenvolvedores rastreiem mudanças no código-fonte, colaborem em projetos e revertam para versões anteriores do código quando necessário;
+- **Material UI**: É uma biblioteca de componentes de interface de usuário baseada em React. Ela oferece uma coleção de componentes prontos que seguem as diretrizes de design do Material Design, facilitando a criação de interfaces modernas e responsivas para aplicativos web.
 
 ### Critérios de Escolha:
 
