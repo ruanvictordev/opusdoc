@@ -25,4 +25,12 @@ Este diagrama de visão de processos demonstra o fluxo de atividades e a intera�
     <img src="../img/Visão_de_processos.png">
 </div>
 
+### Visão de Rotas da API:
+
+Este diagrama de rotas de API ilustra o fluxo de comunicação entre os diferentes endpoints de um sistema, destacando as interações e a troca de dados entre os serviços. Ele facilita a compreensão da estrutura da API, especifica os métodos de requisição, os parâmetros utilizados, e as respostas esperadas, contribuindo para o planejamento e desenvolvimento do sistema. Seus componentes principais incluem endpoints, métodos HTTP, parâmetros de entrada e saída, e códigos de status, proporcionando uma visão clara das rotas da API e suas interações.
+
+<div align="center">
+    <img src="../img/Rotas_de_API.png">
+</div>
+
 <!-- ### Visão de Implementação: -->
