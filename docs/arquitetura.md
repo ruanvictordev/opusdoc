@@ -33,4 +33,4 @@ Este diagrama de rotas de API ilustra o fluxo de comunicação entre os diferent
     <img src="../img/Rotas_de_API.png">
 </div>
 
-<!-- ### Visão de Implementação: -->
+<!-- ### Visão de Implementação.: -->
