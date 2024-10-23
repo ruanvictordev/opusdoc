@@ -9,10 +9,11 @@
 
 ### Escolha dos Frameworks:
 
-- **MongoDB**: MongoDB é um banco de dados NoSQL orientado a documentos. Em vez de armazenar dados em tabelas como nos bancos de dados relacionais, ele armazena dados em documentos JSON flexíveis;
+- **MySQL**: É um sistema de gerenciamento de banco de dados relacional (RDBMS) de código aberto. Ele utiliza o SQL (Structured Query Language) como linguagem para gerenciar e consultar os dados. Ao contrário de bancos de dados NoSQL, como o MongoDB, o MySQL organiza os dados em tabelas com linhas e colunas, onde cada linha representa um registro e cada coluna representa um campo de dados.;
 - **ExpressJS**: Express.js é um framework minimalista e flexível para Node.js, usado para construir aplicações web e APIs;
 - **React**: React é uma biblioteca JavaScript para construção de interfaces de usuário (UIs) desenvolvida pelo Facebook;
 - **NodeJS**: Node.js é um ambiente de execução JavaScript que permite que os desenvolvedores usem JavaScript para programar o lado do servidor;
+- **Docker**: É uma plataforma de código aberto que permite criar, gerenciar e executar aplicações em contêineres. Os contêineres são pacotes leves e portáteis que incluem todo o necessário para rodar uma aplicação, como código, bibliotecas, dependências e configurações, garantindo que a aplicação funcione de forma consistente em qualquer ambiente.
 
 #### Outras:
 
