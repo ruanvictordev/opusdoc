@@ -18,4 +18,9 @@ A equipe de desenvolvimento é composta por quatro profissionais especializados 
 |<img src="https://avatars.githubusercontent.com/u/111580529?v=4" width="50" height="50">|Kelly Soares |Desenvolvedora Frontend |[Kelly Soares]()|kelysoares688@gmail.com|
 |<img src="https://avatars.githubusercontent.com/u/107800194?v=4" width="50" height="50">|Jociel Andrade |Designer de Experiência do Usuário |[Jociel Andrade]()| caped.20211p2ads0355@aluno.ifpi.edu.br|
 |<img src="https://avatars.githubusercontent.com/u/107417702?v=4" width="50" height="50">| João Carlos |Designer de Experiência do Usuário |[João Carlos]()|caped.20211p2ads0126@aluno.ifpi.edu.br|
-|<img src="https://avatars.githubusercontent.com/u/126293962?v=4" width="50" height="50">| Abdenaide Ribeiro |Redator Técnico |[Abdenaide Ribeiro]()|abdenaideribeiro2015@gmail.com|
+|<img src="https://avatars.githubusercontent.com/u/126293962?v=4" width="50" height="50">| Abdenaide Ribeiro |Redator Técnico |[Abdenaide Ribeiro](https://github.com/AbdeIF/)|abdenaideribeiro2015@gmail.com|
+|<img src="https://avatars.githubusercontent.com/u/126293962?v=4" width="50" height="50">| Hugo Amadio |Desenvolvedor Backend |[Hugo Amadio](https://github.com/hugoamadio/)|hugo_amadio@hotmail.com|
+|<img src="https://avatars.githubusercontent.com/u/126293962?v=4" width="50" height="50">| Jorge Jesus |Desenvolvedor Backend |[Jorge Jesus](https://github.com/jorgejesuscardoso/)|tst.jorgecardoso@gmail.com|
+|<img src="https://avatars.githubusercontent.com/u/126293962?v=4" width="50" height="50">| Matheus Borges |Desenvolvedor Backend |[Matheus Borges](https://github.com/Mtmozart/)|bmozart.dev@gmail.com|
+
+
